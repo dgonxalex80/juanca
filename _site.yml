@@ -1,0 +1,9 @@
+name: "Como Vamos"
+output_dir: "docs"
+navbar:
+  title: " "
+  left:
+    - text: "Estudiantes"
+      href: index.html
+    - text: "Tutores"
+      href: about.html
